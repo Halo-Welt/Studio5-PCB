@@ -41,7 +41,7 @@ Here are some pictures that will illustrate the basic principles of a breadboard
 
 Several types of breadboard.
 
-![Internal structure of breadboard, metal strip with 5 holes.](Breadboard%20d5e084eb25d143d0b62e8f96317cdf37/Untitled%201.png)
+![Internal structure of breadboard, metal strip with 5 holes.](./images/Untitled1.png)
 
 Internal structure of breadboard, metal strip with 5 holes.
 
