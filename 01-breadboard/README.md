@@ -37,7 +37,7 @@ If you have already gathered all the components, let’s get started.
 
 Here are some pictures that will illustrate the basic principles of a breadboard. They can help you establish a solid foundation and will come in handy for the subsequent wiring sections.
 
-![Several types of breadboard.](Breadboard%20d5e084eb25d143d0b62e8f96317cdf37/Untitled.png)
+![Several types of breadboard.](01-breadboard/images/Untitled 2.png)
 
 Several types of breadboard.
 
