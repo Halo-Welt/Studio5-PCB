@@ -121,7 +121,7 @@ Attention! The receive and transmit ports of the USB breakout board should be co
 
 ## Bright LED on Pin 13
 
-![屏幕截图 2023-09-17 105827.png](Breadboard%20d5e084eb25d143d0b62e8f96317cdf37/%25E5%25B1%258F%25E5%25B9%2595%25E6%2588%25AA%25E5%259B%25BE_2023-09-17_105827.png)
+![Blink!](./images/blink.png)
 
 ```arduino
 void setup() {
@@ -135,6 +135,8 @@ void loop() {
   delay(1000);
 }
 ```
+
+LED connected to pin 13 will be on for one second, off for one second, and repeat in a loop.
 
 ## Bright LED on Pin 9
 
@@ -153,6 +155,8 @@ void loop() {
   delay(1000);
 }
 ```
+The LED connected to pin 13 will be on for one second, off for one second, while the LED connected to pin 9 will be off for one second, on for one second, and they alternate in this pattern in a continuous loop.
+
 
 ## Learn to print
 
@@ -170,6 +174,8 @@ void loop() {
   delay(1000);
 }
 ```
+You can see in your serial monitor that it displays 'I have told you i times!' every second. (i is an increasing number.)
+
 
 ![Untitled](./images/outcome3.png)
 
