@@ -138,6 +138,9 @@ void loop() {
 
 LED connected to pin 13 will be on for one second, off for one second, and repeat in a loop.
 
+![Outcome2](./images/outcome2.gif)
+
+
 ## Bright LED on Pin 9
 
 ```arduino
@@ -156,6 +159,9 @@ void loop() {
 }
 ```
 The LED connected to pin 13 will be on for one second, off for one second, while the LED connected to pin 9 will be off for one second, on for one second, and they alternate in this pattern in a continuous loop.
+
+![Outcome1](./images/outcome1.gif)
+
 
 
 ## Learn to print
