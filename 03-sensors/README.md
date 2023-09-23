@@ -89,7 +89,7 @@ When you put something between the U shape sensor, Arduino serial monitor will p
 
 Following is outcome of this experiment.
 
-
+![outcome](./images/outcome.gif)
 
 # 3. Summary
 
