@@ -10,11 +10,11 @@ Date: **2023/09/20**
 
 # 1. Water sensor module (analog)
 
-![It is a water sensor that can measure water depth. It has three pins: a positive terminal, a negative terminal, and a signal. The signal pin must be connected to an analog pin (A0-A5) because it is an analog sensor.](Sensor%205db77d3837564ca3a05379eff5cf14a1/Untitled.jpeg)
+![It is a water sensor that can measure water depth. It has three pins: a positive terminal, a negative terminal, and a signal. The signal pin must be connected to an analog pin (A0-A5) because it is an analog sensor.](./images/analog1.jpeg)
 
 It is a water sensor that can measure water depth. It has three pins: a positive terminal, a negative terminal, and a signal. The signal pin must be connected to an analog pin (A0-A5) because it is an analog sensor.
 
-![As shown in this picture, I connect the signal pin with A0.](.images/analog1.jpeg)
+![As shown in this picture, I connect the signal pin with A0.](./images/analog2.jpeg)
 
 As shown in this picture, I connect the signal pin with A0.
 
@@ -35,13 +35,13 @@ void loop() {
 }
 ```
 
-![Prepare a cup of water and immerse the sensor into water.](Sensor%205db77d3837564ca3a05379eff5cf14a1/Untitled%202.jpeg)
+![Prepare a cup of water and immerse the sensor into water.](./images/analog3.jpeg)
 
 Prepare a cup of water and immerse the sensor into water.
 
 ![When you don’t immerse it into water, Arduino serial monitor will just print 0.
 When you immerse it into water, Arduino serial monitor will print values
-When you immerse it deeper into water, value will get larger.](Sensor%205db77d3837564ca3a05379eff5cf14a1/Untitled.png)
+When you immerse it deeper into water, value will get larger.](./images/analog4.png)
 
 When you don’t immerse it into water, Arduino serial monitor will just print 0.
 When you immerse it into water, Arduino serial monitor will print values
@@ -49,11 +49,11 @@ When you immerse it deeper into water, value will get larger.
 
 # 2. U-shaped photoelectric sensor module (digital)
 
-![It is a photoelectric sensor. It has three pins: a positive terminal(VCC), a negative terminal(GND), and a signal(OUT).](Sensor%205db77d3837564ca3a05379eff5cf14a1/Untitled%203.jpeg)
+![It is a photoelectric sensor. It has three pins: a positive terminal(VCC), a negative terminal(GND), and a signal(OUT).](./images/digital1.jpeg)
 
 It is a photoelectric sensor. It has three pins: a positive terminal(VCC), a negative terminal(GND), and a signal(OUT).
 
-![As shown in this picture, I connect the signal pin with 9.](Sensor%205db77d3837564ca3a05379eff5cf14a1/Untitled%204.jpeg)
+![As shown in this picture, I connect the signal pin with 9.](./images/digital2.jpeg)
 
 As shown in this picture, I connect the signal pin with 9.
 
@@ -82,12 +82,14 @@ void loop() {
 ```
 
 ![When you don’t put something between the U shape sensor, Arduino serial monitor will just print 0 and pin 13 will be LOW, so LED connect to pin 13 won’t turn on.
-When you put something between the U shape sensor, Arduino serial monitor will print 1 and pin 13 will be HIGH, so LED connect to pin 13 will turn on.](Sensor%205db77d3837564ca3a05379eff5cf14a1/Untitled%201.png)
+When you put something between the U shape sensor, Arduino serial monitor will print 1 and pin 13 will be HIGH, so LED connect to pin 13 will turn on.](./images/digital4.png)
 
 When you don’t put something between the U shape sensor, Arduino serial monitor will just print 0 and pin 13 will be LOW, so LED connect to pin 13 won’t turn on.
 When you put something between the U shape sensor, Arduino serial monitor will print 1 and pin 13 will be HIGH, so LED connect to pin 13 will turn on.
 
 Following is outcome of this experiment.
+
+
 
 # 3. Summary
 
