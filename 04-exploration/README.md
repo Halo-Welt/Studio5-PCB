@@ -1,35 +1,37 @@
-# Assignment's Title
+# Exploration
 
-## Assignment's description
-Describe the assignment
 
-## Documentation
-Describe the work you did to complete the assignment
+Hey guys, I am a student in Shanghai. On this weekend I went to a garden in our school and found something interesting.
 
-bullet point list
-* item one
-* item two
-* item three
+Created by **LIU Xinyu**
 
-numbered list
-1. item one
-2. item two
-3. item three
+Date: **2023/09/24**
 
-**bold text**
 
-*italic text*
+# 1. Co-living of nature
 
-***italic and bold text***
+![Viewing the symbiotic relationships among natural entities from a personified perspective, natural elements in different scenarios can evoke diverse emotions, all of which are vivid and fascinating.](./images/coliving.jpg)
 
-example of an external link
+Viewing the symbiotic relationships among natural entities from a personified perspective, natural elements in different scenarios can evoke diverse emotions, all of which are vivid and fascinating.
 
-[description of the website](https://www.https://www.example.com/)
+# 2. Sound of nature
 
-example of a picture hosted on an external website
+![A industrial equipment operating underwater creates a ‘wuuuuu~’ sound, as the water's flow stirs up a ‘ummmmm~’ sound, harmonizing with the cicadas' song ‘innnnn~’ in the trees. Together, humans and nature compose a symphony.](./images/sound.jpg)
 
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
+A industrial equipment operating underwater creates a ‘wuuuuu~’ sound, as the water's flow stirs up a ‘ummmmm~’ sound, harmonizing with the cicadas' song ‘innnnn~’ in the trees. Together, humans and nature compose a symphony.
 
-example of a picture hosted inside your repository (don't forget the ./ operand)
+# 3. Shape of nature
 
-![picture description](./images/example.jpg)
+![Under a tenfold magnifying glass, the most obvious visual characteristics of shape of natural objects are blocks and lines.](./images/shape.jpg)
+
+Under a tenfold magnifying glass, the most obvious visual characteristics of shape of natural objects are blocks and lines.
+
+# 4. Litter of nature
+
+![On a rainy day, many nature entities fall down, such as branches, leaves and flowers. Some of them land in the middle of the road, on top of car or simply rest comfortably on trees .](./images/litter.jpg)
+
+On a rainy day, many nature entities fall down, such as branches, leaves and flowers. Some of them land in the middle of the road, on top of car or simply rest comfortably on trees .
+
+# 5. Summary
+
+Generally speaking, I enjoyed this fieldwork though I was suffering from mosquito. I will do it continually.
