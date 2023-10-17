@@ -10,7 +10,7 @@ Date: **2023/10/12**
 
 # 1. Project design in EasyEDA
 
-At the beginning of our project, we need to learn about [EasyEDA](.images/schematic1.jpg) — a software to make PCB document.
+At the beginning of our project, we need to learn about [EasyEDA](./images/schematic1.jpg) — a software to make PCB document.
 
 ![Generally, we need these components to build our PCB board.](CNCmilling%2062b93556a81b43cab5b261465715a772/schematic1.jpg)
 
