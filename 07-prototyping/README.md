@@ -1,35 +1,17 @@
-# Assignment's Title
+# Prototyping
 
-## Assignment's description
-Describe the assignment
+Hey guys, I am a student in Tongji University. On this week I made a rapid prototype to show my design project.
 
-## Documentation
-Describe the work you did to complete the assignment
+Created by **LIU Xinyu**
 
-bullet point list
-* item one
-* item two
-* item three
+Date: **2023/10/26**
 
-numbered list
-1. item one
-2. item two
-3. item three
+# 1. Rapid prototype
 
-**bold text**
+My final project is about ‘**listen to plant**’.
 
-*italic text*
+In nature when plants are stressed, they will emit high frequency sounds which can not be heard by human. There are two stressing states: water shortage and animal approaching. So I use an ultrasonic sensor to simulate the animal approaching state. There we can use the data collected by sensor to control LED or vibrate motor or speaker.
 
-***italic and bold text***
+![prototype1.jpg](./images/prototype1.jpg)
 
-example of an external link
-
-[description of the website](https://www.https://www.example.com/)
-
-example of a picture hosted on an external website
-
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
-
-example of a picture hosted inside your repository (don't forget the ./ operand)
-
-![picture description](./images/example.jpg)
+![prototype2.jpg](./images/prototype2.jpg)
