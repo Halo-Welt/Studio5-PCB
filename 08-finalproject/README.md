@@ -25,7 +25,7 @@ The project provides a new way for humans to engage in dialogue with nature, all
 
 # 2. PCB design
 
-This the link to [my PCB design website] ([https://markdown.com.cn](https://u.easyeda.com/join?type=project&key=cb01647ea3513f6939c60290c3894f5a&inviter=65625a9ce6784044ad2a6dde6278ea0f)).
+This the link to [my PCB design website](https://u.easyeda.com/join?type=project&key=cb01647ea3513f6939c60290c3894f5a&inviter=65625a9ce6784044ad2a6dde6278ea0f).
 
 ![This is the schematic. The most ingenious part is that I use one LED and photoresistors to achieve the effect of a digital potentiometer.](./images/schematic.png)
 
