@@ -1,7 +1,7 @@
 # Studio 5 - PCB for designers
 
 ## About
-I'm LIU Xinyu, a student in Tongji university in Shanghai. I am learning how to design a PCB board for design goal. This documention is a tutorial for beginners to learn basical knowledge. I'm glad you could learn with me!
+I'm LIU Xinyu, a student in Shanghai. I am learning how to design a PCB board for design goal. This documention is a tutorial for beginners to learn basical knowledge. I'm glad you could learn with me!
 
 ##
 
